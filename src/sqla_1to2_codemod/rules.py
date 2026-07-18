@@ -13,24 +13,24 @@ from dataclasses import dataclass
 # Documentation pages on async-workflows.com used as the canonical guidance for
 # each rule. Kept as named constants so the same URL is reused consistently.
 _DOC_MIGRATE = (
-    "https://async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/"
+    "https://www.async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/"
     "migrating-legacy-14-code-to-20-syntax/"
 )
 _DOC_CHECKLIST = (
-    "https://async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/"
+    "https://www.async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/"
     "migrating-legacy-14-code-to-20-syntax/legacy-1-4-to-2-0-codemod-checklist/"
 )
 _DOC_QUERY_TO_SELECT = (
-    "https://async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/"
+    "https://www.async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/"
     "core-vs-orm-architecture-decisions/"
     "how-to-replace-queryfilter-with-selectwhere-in-sqlalchemy-20/"
 )
 _DOC_REMOVEDIN20 = (
-    "https://async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/"
+    "https://www.async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/"
     "migrating-legacy-14-code-to-20-syntax/fixing-removedin20warning-deprecation-warnings/"
 )
 _DOC_TYPING = (
-    "https://async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/"
+    "https://www.async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/"
     "migrating-legacy-14-code-to-20-syntax/step-by-step-guide-to-sqlalchemy-20-type-annotations/"
 )
 

@@ -89,7 +89,7 @@ def test_explain_prints_doc_link(capsys):
     out = capsys.readouterr().out
     assert rc == 0
     assert "SA004" in out
-    assert "https://async-workflows.com/" in out
+    assert "https://www.async-workflows.com/" in out
 
 
 def test_explain_unknown_rule_errors(capsys):

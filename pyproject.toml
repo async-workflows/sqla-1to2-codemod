@@ -46,7 +46,7 @@ test = ["pytest>=7.0"]
 
 [project.urls]
 Homepage = "https://github.com/async-workflows/sqla-1to2-codemod"
-Documentation = "https://async-workflows.com"
+Documentation = "https://www.async-workflows.com"
 Issues = "https://github.com/async-workflows/sqla-1to2-codemod/issues"
 
 [project.scripts]

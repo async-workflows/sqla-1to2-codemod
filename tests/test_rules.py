@@ -148,7 +148,7 @@ def test_sa007_column_attribute_flagged():
 # --------------------------------------------------------------------------- #
 def test_every_rule_has_doc_url_and_explanation():
     for rule in RULES:
-        assert rule.doc_url.startswith("https://async-workflows.com/")
+        assert rule.doc_url.startswith("https://www.async-workflows.com/")
         assert rule.explanation.strip()
         assert rule.summary.strip()
 

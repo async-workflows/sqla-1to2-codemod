@@ -128,11 +128,11 @@ per finding for your own dashboards or review bots.
 
 Deeper background on the migration these rules automate:
 
-- [Migrating legacy 1.4 code to 2.0 syntax](https://async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/migrating-legacy-14-code-to-20-syntax/) — the overall upgrade path.
-- [The legacy 1.4-to-2.0 codemod checklist](https://async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/migrating-legacy-14-code-to-20-syntax/legacy-1-4-to-2-0-codemod-checklist/) — a step-by-step companion to this tool.
-- [Replacing `Query.filter` with `select().where`](https://async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/core-vs-orm-architecture-decisions/how-to-replace-queryfilter-with-selectwhere-in-sqlalchemy-20/) — the reasoning behind `SA004` and `SA005`.
-- [Fixing `RemovedIn20Warning` deprecation warnings](https://async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/migrating-legacy-14-code-to-20-syntax/fixing-removedin20warning-deprecation-warnings/) — context for `SA001`, `SA002`, and `SA006`.
-- [A step-by-step guide to SQLAlchemy 2.0 type annotations](https://async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/migrating-legacy-14-code-to-20-syntax/step-by-step-guide-to-sqlalchemy-20-type-annotations/) — the typed `Mapped[...]` style behind `SA007`.
+- [Migrating legacy 1.4 code to 2.0 syntax](https://www.async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/migrating-legacy-14-code-to-20-syntax/) — the overall upgrade path.
+- [The legacy 1.4-to-2.0 codemod checklist](https://www.async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/migrating-legacy-14-code-to-20-syntax/legacy-1-4-to-2-0-codemod-checklist/) — a step-by-step companion to this tool.
+- [Replacing `Query.filter` with `select().where`](https://www.async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/core-vs-orm-architecture-decisions/how-to-replace-queryfilter-with-selectwhere-in-sqlalchemy-20/) — the reasoning behind `SA004` and `SA005`.
+- [Fixing `RemovedIn20Warning` deprecation warnings](https://www.async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/migrating-legacy-14-code-to-20-syntax/fixing-removedin20warning-deprecation-warnings/) — context for `SA001`, `SA002`, and `SA006`.
+- [A step-by-step guide to SQLAlchemy 2.0 type annotations](https://www.async-workflows.com/mastering-sqlalchemy-20-core-and-orm-architecture/migrating-legacy-14-code-to-20-syntax/step-by-step-guide-to-sqlalchemy-20-type-annotations/) — the typed `Mapped[...]` style behind `SA007`.
 
 ## License
 
